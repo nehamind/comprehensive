@@ -30,4 +30,4 @@ public class sofa_product {
 			d2.click();
 		}
 
-	}
+	}//modify
